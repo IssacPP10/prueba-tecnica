@@ -1,0 +1,10 @@
+﻿@{
+    ViewData["Title"] = "REGISTRO Y CONSULTA DE FALLAS DE EQUIPOS";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<div class="btn-group">
+    <a class="btn btn-primary me-2" href="@Url.Action("Consultar", "Falla")">Consultar Fallos</a>
+    <a class="btn btn-secondary" href="@Url.Action("Registrar", "Falla")">Registrar Falla</a>
+</div>

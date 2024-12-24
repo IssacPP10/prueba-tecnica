@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\PruebaTecnica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{014B61B8-BC9B-4A3B-90D1-29AF953A0005}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\pc\\source\\repos\\pruebatecnica\\pruebatecnica\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{014B61B8-BC9B-4A3B-90D1-29AF953A0005}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{014B61B8-BC9B-4A3B-90D1-29AF953A0005}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\pc\\source\\repos\\pruebatecnica\\pruebatecnica\\models\\falla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{014B61B8-BC9B-4A3B-90D1-29AF953A0005}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\models\\falla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{014B61B8-BC9B-4A3B-90D1-29AF953A0005}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\pc\\source\\repos\\pruebatecnica\\pruebatecnica\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{014B61B8-BC9B-4A3B-90D1-29AF953A0005}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{014B61B8-BC9B-4A3B-90D1-29AF953A0005}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\pc\\source\\repos\\pruebatecnica\\pruebatecnica\\controllers\\fallacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{014B61B8-BC9B-4A3B-90D1-29AF953A0005}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\controllers\\fallacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{014B61B8-BC9B-4A3B-90D1-29AF953A0005}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\pc\\source\\repos\\pruebatecnica\\pruebatecnica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{014B61B8-BC9B-4A3B-90D1-29AF953A0005}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{014B61B8-BC9B-4A3B-90D1-29AF953A0005}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\pc\\source\\repos\\pruebatecnica\\pruebatecnica\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{014B61B8-BC9B-4A3B-90D1-29AF953A0005}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{014B61B8-BC9B-4A3B-90D1-29AF953A0005}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\pc\\source\\repos\\pruebatecnica\\pruebatecnica\\views\\falla\\consultar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{014B61B8-BC9B-4A3B-90D1-29AF953A0005}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\views\\falla\\consultar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{014B61B8-BC9B-4A3B-90D1-29AF953A0005}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\pc\\source\\repos\\pruebatecnica\\pruebatecnica\\views\\falla\\registrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{014B61B8-BC9B-4A3B-90D1-29AF953A0005}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\views\\falla\\registrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApiService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Services\\ApiService.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica\\Services\\ApiService.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Services\\ApiService.cs",
+              "RelativeToolTip": "PruebaTecnica\\Services\\ApiService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAACIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T05:04:58.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Falla.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Models\\Falla.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica\\Models\\Falla.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Models\\Falla.cs",
+              "RelativeToolTip": "PruebaTecnica\\Models\\Falla.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T05:04:56.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "PruebaTecnica\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T05:04:52.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Program.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Program.cs",
+              "RelativeToolTip": "PruebaTecnica\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T05:04:45.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\PruebaTecnica\\PruebaTecnica\\appsettings.json",
+              "RelativeDocumentMoniker": "PruebaTecnica\\appsettings.json",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\PruebaTecnica\\PruebaTecnica\\appsettings.json",
+              "RelativeToolTip": "PruebaTecnica\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-01T05:04:41.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FallaController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Controllers\\FallaController.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica\\Controllers\\FallaController.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Controllers\\FallaController.cs",
+              "RelativeToolTip": "PruebaTecnica\\Controllers\\FallaController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAowEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T04:40:34.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Registrar.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Views\\Falla\\Registrar.cshtml",
+              "RelativeDocumentMoniker": "PruebaTecnica\\Views\\Falla\\Registrar.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Views\\Falla\\Registrar.cshtml",
+              "RelativeToolTip": "PruebaTecnica\\Views\\Falla\\Registrar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T04:26:48.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Consultar.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Views\\Falla\\Consultar.cshtml",
+              "RelativeDocumentMoniker": "PruebaTecnica\\Views\\Falla\\Consultar.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Views\\Falla\\Consultar.cshtml",
+              "RelativeToolTip": "PruebaTecnica\\Views\\Falla\\Consultar.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T04:26:31.737Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

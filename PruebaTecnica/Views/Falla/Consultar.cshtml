@@ -1,0 +1,57 @@
+﻿@model IEnumerable<FallaConsulta>
+
+<h2>Consultar Fallos</h2>
+
+<form asp-controller="Falla" asp-action="Consultar" method="get">
+    <div class="form-group">
+        <label>Descripción de la Falla</label>
+        <input type="text" name="descripcionFalla" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Fecha de la Falla</label>
+        <input type="date" name="fechaFalla" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Nombre del Propietario</label>
+        <input type="text" name="nombrePropietario" class="form-control" />
+    </div>
+    <button type="submit" class="btn btn-primary mt-2">Buscar</button>
+</form>
+
+@if (ViewBag.AlertMessage != null)
+{
+    <div class="alert alert-info mt-3">
+        @ViewBag.AlertMessage
+    </div>
+}
+
+@if (ViewBag.ErrorMessage != null)
+{
+    <div class="alert alert-danger mt-3">
+        @ViewBag.ErrorMessage
+    </div>
+}
+
+<table class="table mt-3">
+    <thead>
+        <tr>
+            <th>Nombre Equipo</th>
+            <th>Descripción</th>
+            <th>Fecha</th>
+            <th>Propietario</th>
+            <th>Email</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var falla in Model)
+        {
+            <tr>
+                <td>@falla.NombreEquipo</td>
+                <td>@falla.DescripcionFalla</td>
+                <td>@falla.FechaFalla.ToString("yyyy-MM-dd")</td>
+                <td>@falla.NombrePropietario</td>
+                <td>@falla.Email</td>
+            </tr>
+        }
+    </tbody>
+</table>
